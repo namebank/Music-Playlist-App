@@ -1,1 +1,11 @@
-# Music-Playlist-App
+### Install dependencies
+
+```
+flutter pub get
+```
+
+### flutter run
+
+```
+flutter run
+```
