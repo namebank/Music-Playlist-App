@@ -1,3 +1,6 @@
+#  Music Playlist App
+this project use flutter 3.32.8 
+
 ### Install dependencies
 
 ```
