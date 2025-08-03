@@ -12,3 +12,7 @@ flutter pub get
 ```
 flutter run
 ```
+
+### Download
+
+[Download APK](https://github.com/namebank/Music-Playlist-App/releases/download/app/app-release.apk)
